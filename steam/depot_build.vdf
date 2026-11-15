@@ -1,0 +1,13 @@
+"DepotBuildConfig"
+{
+	// Replace YOUR_DEPOTID with the Windows depot ID from Steamworks.
+	"DepotID"	"YOUR_DEPOTID"
+	// Paths are relative to app_build.vdf's contentroot.
+	"FileMapping"
+	{
+		"LocalPath"	"*"
+		"DepotPath"	"."
+		"recursive"	"1"
+	}
+	"FileExclusion"	"*.pdb"
+}

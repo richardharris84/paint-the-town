@@ -1,0 +1,6216 @@
+[
+  {
+    "path": "VAMPA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 32,
+    "height": 48,
+    "ground_anchor": [
+      16,
+      48
+    ]
+  },
+  {
+    "path": "VFIGA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 40,
+    "height": 88,
+    "ground_anchor": [
+      20,
+      88
+    ]
+  },
+  {
+    "path": "VGEMA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 48,
+    "height": 72,
+    "ground_anchor": [
+      24,
+      72
+    ]
+  },
+  {
+    "path": "VFOSA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 96,
+    "ground_anchor": [
+      64,
+      96
+    ]
+  },
+  {
+    "path": "VTREA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 192,
+    "height": 240,
+    "ground_anchor": [
+      96,
+      240
+    ]
+  },
+  {
+    "path": "VOAKA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 160,
+    "height": 248,
+    "ground_anchor": [
+      80,
+      248
+    ]
+  },
+  {
+    "path": "VPINA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 240,
+    "ground_anchor": [
+      72,
+      240
+    ]
+  },
+  {
+    "path": "VSPKA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 48,
+    "height": 88,
+    "ground_anchor": [
+      24,
+      88
+    ]
+  },
+  {
+    "path": "VPLTA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 104,
+    "ground_anchor": [
+      32,
+      104
+    ]
+  },
+  {
+    "path": "VREFA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFC8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VREFD8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VPITA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VELEA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VELEB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 104,
+    "ground_anchor": [
+      64,
+      104
+    ]
+  },
+  {
+    "path": "VGIRA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VGIRB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 128,
+    "height": 176,
+    "ground_anchor": [
+      64,
+      176
+    ]
+  },
+  {
+    "path": "VDEEA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VDEEB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 72,
+    "height": 64,
+    "ground_anchor": [
+      36,
+      64
+    ]
+  },
+  {
+    "path": "VKANA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VKANB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VTIGA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VTIGB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VBISA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VBISB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 104,
+    "height": 72,
+    "ground_anchor": [
+      52,
+      72
+    ]
+  },
+  {
+    "path": "VPENA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VPENB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 20,
+    "height": 24,
+    "ground_anchor": [
+      10,
+      24
+    ]
+  },
+  {
+    "path": "VZSNA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 96,
+    "ground_anchor": [
+      32,
+      96
+    ]
+  },
+  {
+    "path": "VORAA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VORAB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 64,
+    "height": 64,
+    "ground_anchor": [
+      32,
+      64
+    ]
+  },
+  {
+    "path": "VTAPA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VTAPB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 56,
+    "ground_anchor": [
+      48,
+      56
+    ]
+  },
+  {
+    "path": "VJAGA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VJAGB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VSNLB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 48,
+    "ground_anchor": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "VMOOA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VMOOB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VPBRA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VPBRB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 120,
+    "height": 80,
+    "ground_anchor": [
+      60,
+      80
+    ]
+  },
+  {
+    "path": "VAWFA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VAWFB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 88,
+    "height": 48,
+    "ground_anchor": [
+      44,
+      48
+    ]
+  },
+  {
+    "path": "VHBLA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLC8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHBLD8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VHRDB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VFANA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFANC8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFAND8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2C8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFA2D8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VGTRA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VGTRB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VDRMB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 96,
+    "height": 64,
+    "ground_anchor": [
+      48,
+      64
+    ]
+  },
+  {
+    "path": "VPRTA0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 224,
+    "ground_anchor": [
+      72,
+      224
+    ]
+  },
+  {
+    "path": "VPRTB0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 224,
+    "ground_anchor": [
+      72,
+      224
+    ]
+  },
+  {
+    "path": "VPRTC0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 224,
+    "ground_anchor": [
+      72,
+      224
+    ]
+  },
+  {
+    "path": "VPRTD0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 224,
+    "ground_anchor": [
+      72,
+      224
+    ]
+  },
+  {
+    "path": "VHOTA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VHOTB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VICEB8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 112,
+    "height": 112,
+    "ground_anchor": [
+      56,
+      112
+    ]
+  },
+  {
+    "path": "VFC3A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC3B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC4B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC5B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC6B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC7B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8A8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VFC8B8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 144,
+    "height": 72,
+    "ground_anchor": [
+      72,
+      72
+    ]
+  },
+  {
+    "path": "VBMNA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBMNA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VBATA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA1.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA2.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA3.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA4.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA5.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA6.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA7.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCATA8.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM1A0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM1B0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM1C0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM1D0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM2A0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM2B0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM2C0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM2D0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM3A0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM3B0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM3C0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "VCM3D0.png",
+    "role": "nonblocking_scenery_sprite",
+    "width": 80,
+    "height": 64,
+    "ground_anchor": [
+      40,
+      64
+    ]
+  },
+  {
+    "path": "ROADBED.png",
+    "role": "wall",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "COBBLE.png",
+    "role": "wall",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "EATONHM.png",
+    "role": "wall",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "path": "QSTONE.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "QWINDOW.png",
+    "role": "wall",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "path": "QENTRY.png",
+    "role": "wall",
+    "width": 512,
+    "height": 1024
+  },
+  {
+    "path": "QROOF.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "CITYRIB.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "CITYBASE.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "RYWINDOW.png",
+    "role": "wall",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "path": "RMART1.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART2.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART3.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART4.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART5.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART6.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART7.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART8.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMART9.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMARTA.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMARTB.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMARTC.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "RMKING.png",
+    "role": "wall",
+    "width": 2048,
+    "height": 512
+  },
+  {
+    "path": "UGREATH.png",
+    "role": "wall",
+    "width": 768,
+    "height": 512
+  },
+  {
+    "path": "VSCOR.png",
+    "role": "wall",
+    "width": 256,
+    "height": 96
+  },
+  {
+    "path": "SBILL1.png",
+    "role": "wall",
+    "width": 512,
+    "height": 2048
+  },
+  {
+    "path": "SBILL2.png",
+    "role": "wall",
+    "width": 512,
+    "height": 2048
+  },
+  {
+    "path": "SBILL3.png",
+    "role": "wall",
+    "width": 512,
+    "height": 2048
+  },
+  {
+    "path": "SBILL4.png",
+    "role": "wall",
+    "width": 512,
+    "height": 2048
+  },
+  {
+    "path": "STAGEBK.png",
+    "role": "wall",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "path": "SKATERNT.png",
+    "role": "wall",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "path": "ZWSTONE.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "ZWCEDAR.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "RAILEDGE.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "PLATNUM.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "ZSIGN1.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN2.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN3.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN4.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN5.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN6.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "ZSIGN7.png",
+    "role": "wall",
+    "width": 512,
+    "height": 256
+  },
+  {
+    "path": "PTPANEL.png",
+    "role": "wall",
+    "width": 512,
+    "height": 288
+  },
+  {
+    "path": "PTFRAME.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "PTFENCE.png",
+    "role": "wall",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "path": "ASPHALT.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "COBBLEF.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "CROSSWLK.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "STAGEFL.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "NPSICE.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "ZFGRASS.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "ZFEARTH.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "ZFASPH.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "NPSSNOW.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "TRACKBED.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "PLATSAFE.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "QROOFF.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "CITYBASF.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "path": "RYWINDOF.png",
+    "role": "flat",
+    "width": 64,
+    "height": 64
+  }
+]

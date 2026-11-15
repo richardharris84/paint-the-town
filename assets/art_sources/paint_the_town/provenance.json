@@ -1,0 +1,61 @@
+{
+  "title": "Paint the Town",
+  "header": {
+    "file": "header-source.png",
+    "source": "../expansion_header_source.png",
+    "method": "AI edit authorized by the user; preserve the original Toronto landmark and paintball character composition, replace title lettering",
+    "image_id": "sha256:29de7cabab62471a6d07b58633da60eb3106400e806599f1476506f5ed327873"
+  },
+  "new_sprite_sources": [
+    {
+      "file": "../polish/pedestrian-walk-source.png",
+      "image_id": "sha256:53ce2e4fbf111b6a7779d014bf838b0c095551db89da5924ce980a24b26fae67",
+      "layout": "Original unbranded 8-direction pedestrian walk cycle, four gait phases per direction"
+    },
+    {
+      "file": "../polish/polar-bear-walk-source.png",
+      "image_id": "sha256:8cd2243b72668c2dc6a0fb58148208d6001b70931f73274e74683d403d7fb14e",
+      "layout": "Original unbranded blue-jersey polar bear walk cycle, four gait phases per direction"
+    },
+    {
+      "file": "../polish/faceoff-source.png",
+      "image_id": "sha256:3d9766f2c45619e00efeb9838c6c64728484ec3a05c0b4b9ca70a6a3032f20a0",
+      "layout": "Original unbranded 4x3 hockey faceoff atlas: four puck-drop referee poses, four blue-player poses mirrored to face center, and one inward-facing red-player pose. Plain jerseys; no logos or team marks. Other red cells face the wrong way and are unused."
+    },
+    {
+      "file": "../polish/faceoff-team-logo-draft.png",
+      "image_id": "sha256:abf48bf1de79894f1c3b8d728f806dc10287aa443591ddfc6e3409e49849532c",
+      "status": "Superseded; excluded from normalized artwork and all builds because the draft included an unintended team-style crest."
+    },
+    {
+      "file": "../polish/zoo-expansion-source.png",
+      "image_id": "sha256:703ad779f56c2a1b697c03325239189c1e2ca19b03348385c8e2685067298d83",
+      "layout": "4x4; pairs: orangutan, Malayan tapir, jaguar, snow leopard, moose, polar bear, Arctic wolf, little penguin"
+    },
+    {
+      "file": "../polish/pitcher-directions-source.png",
+      "image_id": "sha256:21cf1a51a8761dc02996facc9af95ed10e63dd2ab50d5f2e41c204105bdbd55e",
+      "layout": "5x5; rows are pitch phases; columns front, front-quarter, side, rear-quarter, rear; opposite side mirrored"
+    },
+    {
+      "file": "../polish/catcher-directions-source.png",
+      "image_id": "sha256:128025a42512500eba477749d9c9573ed17792f98025c7e768d034a1849b0d7e",
+      "layout": "5x5; rows are catching/return phases; columns front, front-quarter, side, rear-quarter, rear; opposite side mirrored"
+    },
+    {
+      "file": "../polish/venue-life-source.png",
+      "image_id": "sha256:8da5aecdb531b0915d125c82704ac3f492ac83ec66a4fbb66658e1f35fa06bd9",
+      "layout": "4x4; blue faceoff player, red faceoff player, fans, guitarist and drummer"
+    },
+    {
+      "file": "../polish/venue-life-reviewed-source.png",
+      "image_id": "sha256:ffe06ebb48fe91b96a764a9e0ef3dac647a972ddb943b1f8ec0b543295082050",
+      "layout": "AI edit of venue-life-source.png; third row preserves the same three seated fans across four cheering poses"
+    },
+    {
+      "file": "../polish/portal-source.png",
+      "image_id": "sha256:f96fc6ea79349459e272193fc8799b8312a3d243ad17b86f1359273d14bfb08c",
+      "layout": "4x2; two arrow Portal Key frames, two activation panels, four glowing portal frames"
+    }
+  ]
+}

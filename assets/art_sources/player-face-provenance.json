@@ -1,0 +1,9 @@
+{
+  "source": "player-face-source.jpg",
+  "origin": "User-supplied six-panel character portrait sheet",
+  "generator": "scripts/hud_art.py",
+  "processing": "Crop portrait interiors only; remove edge-connected neutral backdrop; resize; alpha-threshold; palette-quantize; derive restrained native reaction variants.",
+  "excluded": ["Red panel frames", "Percentage labels", "HEALTH labels"],
+  "native_resources": "42 STF expression patches; STFB backgrounds are not replaced.",
+  "rights": "User-provided artwork. No new redistribution license is inferred."
+}

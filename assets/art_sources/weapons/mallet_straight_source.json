@@ -1,0 +1,10 @@
+{
+  "source": "mallet_straight_source.png",
+  "sha256": "f7ec21ae262b65b54d01fd80f5becda5d498164e5949f8d072a9f08cdda340ff",
+  "reference": "mallet_ai_source.png",
+  "dimensions": [1774, 887],
+  "poses": ["idle", "right-shoulder wind-up", "overhead strike", "follow-through"],
+  "provenance": "Original AI-assisted edit requested by the user. Straight rigid shaft aligned through the head socket and grip; preserved harlequin head, brass rim and right-handed red-sleeved glove.",
+  "conversion": "Reviewed source crop rectangles and common scale in scripts/build_toronto_wad.py::_mallet_weapon_lumps; four 160x144 native patches. Original source preserved. Native fist damage and timing retained.",
+  "ownership": "Project-generated artwork; exclusive copyright ownership is not certified."
+}

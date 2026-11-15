@@ -1,0 +1,60 @@
+{
+  "provenance": "Original AI-assisted project artwork requested by the user; no extracted game assets, photographs, existing paintings or book covers.",
+  "ownership": "Project-generated artwork; exclusive copyright ownership is not certified.",
+  "sources": [
+    {
+      "source": "museum-paintings-source.png",
+      "sha256": "7d0432e0768a1cd62872ef7999c9396f1786172b9bea572b92b77bbbd5a5602e",
+      "layout": "3 columns by 2 rows",
+      "subjects": ["river valley", "noblewoman portrait", "classical portico", "cavalry river crossing", "winter infantry march", "harbor ships"]
+    },
+    {
+      "source": "museum-paintings-second-source.png",
+      "sha256": "6f4df9266043dcfbf15d26a9a414209da2730bcb3b94c343bbd73afc0514460b",
+      "layout": "3 columns by 2 rows",
+      "subjects": ["still life", "officer and horse", "wheat fields", "historical camp", "battle panorama", "winter village"]
+    },
+    {
+      "source": "street-vendors-source.png",
+      "sha256": "07fbd0a180701c8869e5d93fc576e69368442dbf74e6b4d203d24c37fe633378",
+      "layout": "2 columns by 2 rows; two fixed-anchor poses per vendor",
+      "subjects": ["hotdog vendor", "ice-cream vendor"]
+    }
+  ],
+  "conversion": "Painting cells are selected independently, then contained without cropping inside centered frames. Directional sprites use reviewed source row bounds, consistent native scale, bottom-center anchors and mirrored opposite-side views; they are not duplicated front views. See scripts/prepare_venue_art.py. Exact hashes of every source and prepared sprite are recorded in normalization.json.",
+  "high_definition_revision": {
+    "authorization": "The user asked for higher-definition wall textures and skies generated with a high-end image AI so the game reads as more convincingly 3D.",
+    "sources": [
+      "assets/skies_squares.png",
+      "assets/skies_waterfront.png",
+      "assets/materials_city.png",
+      "assets/materials_arena.png"
+    ],
+    "reviewed_layouts": {
+      "skies_squares.png": "1536x1024; three stacked panorama strips with divider rows at 345-348 and 690-694: dusk entertainment square (TSKYSAN), overcast civic city hall (TSKYNAT), downtown CN Tower and domed stadium (TSKYROG)",
+      "skies_waterfront.png": "1536x1024; divider rows at 337-341 and 679-682: blue-hour arena district (TSKYSCO), park treeline with legislature (TSKYQPK), lake sunset skyline (TSKYISL)",
+      "materials_city.png": "4x2 atlas: asphalt, cobblestone, precast concrete base, limestone hotel facade, ribbed stage steel, stucco kiosk, platform-edge concrete, bolted steel panel",
+      "materials_arena.png": "4x2 atlas: ribbed stadium concrete, navy stadium seats, rink dasher boards, ice, arena roof deck, track ballast, black stage planks, ribbed steel door"
+    },
+    "conversion": "Skies use reviewed 1536x192 windows anchored at each strip's skyline base, graded away from palette-hostile blue, resized to the native 1024x128 sky sampling grid and wrap-blended. Wall cells are cropped inside the divider lines, downsampled to native texel density with baked lighting and ambient occlusion, and edge-blended for seamless tiling. See scripts/venue_art.py site_material and scripts/expansion_presentation.py venue_skies."
+  },
+  "directional_revision": {
+    "authorization": "The user explicitly approved generating new directional sprite-sheet images and varied fan groups using existing artwork as references.",
+    "sources": [
+      "people-directions-source.png",
+      "crowd-directions-source.png",
+      "animals-directions-source.png",
+      "wildlife-directions-source.png",
+      "vendors-directions-source.png"
+    ],
+    "reviewed_layouts": {
+      "people-directions-source.png": "8 columns / 8 rows; first five views plus mirrored opposite sides",
+      "crowd-directions-source.png": "7 columns / 11 occupied rows; eight reviewed group designs, first five views plus mirrored opposite sides",
+      "animals-directions-source.png": "5 columns / 7 rows; reviewed nonuniform row bounds",
+      "wildlife-directions-source.png": "5 columns / 7 rows; reviewed nonuniform row bounds",
+      "vendors-directions-source.png": "5 columns / 6 rows"
+    },
+    "native_orientation": "Reviewed columns run from front through left profile to rear. Only opposite-side rotations 6-8 are mirrored; native KEX side captures caught and corrected reversed people/crowd profiles.",
+    "animation": "Where paired poses exist, use both; otherwise apply a subtle upper-body breathing/bobbing pose while keeping feet planted. Referee wears a black-and-white vertically striped shirt and black pants in every direction."
+  }
+}

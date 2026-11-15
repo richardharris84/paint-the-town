@@ -1,0 +1,9 @@
+{
+  "source": "player-face-sharp-source.png",
+  "sha256": "a04cff557562b6b67d3de81f2a716938eebeec7bdf8af8ffe41ab1c003b6011c",
+  "reference": "player-face-source.jpg",
+  "provenance": "Original AI-assisted edit requested by the user, preserving the supplied cartoon character identity. Six expressions, crisp large contrast planes, colorful paint rather than gore.",
+  "layout": "3 columns by 2 rows; reviewed crop rectangles in scripts/hud_art.py",
+  "conversion": "Background flood removal, 24x30 reduction, contrast and restrained unsharp mask; all 42 native reaction patches retained.",
+  "ownership": "Project-generated artwork; exclusive copyright ownership is not certified."
+}

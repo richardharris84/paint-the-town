@@ -1,0 +1,9 @@
+{
+  "source": "mallet_ai_source.png",
+  "sha256": "c955df49fa98940e45fc1071d29f9b36180b0db1e8e345b6c99ac989f3d5a1ae",
+  "provenance": "AI-generated original first-person harlequin mallet sheet, requested for Toronto Realms. Not extracted from Doom or another game's weapon artwork.",
+  "dimensions": [1774, 887],
+  "poses": ["idle", "right-shoulder wind-up", "overhead strike", "follow-through"],
+  "conversion": "scripts/build_toronto_wad.py::_mallet_weapon_lumps crops poses, uses one scale with Doom pixel-aspect compensation, thresholds alpha and quantizes without dithering to the installed Doom palette.",
+  "runtime": "PUNGA0 through PUNGD0; 160x144 patches. Pose offsets are [-90,-24], [-90,-24], [-65,-24], [-80,-24]: clear idle crosshair, strike toward center. Stock fist timing and damage retained; player marker artwork unchanged."
+}

@@ -1,0 +1,17 @@
+"appbuild"
+{
+	// Replace YOUR_APPID with the App ID assigned in Steamworks after
+	// creating the app ("Paint the Town").
+	"appid"		"YOUR_APPID"
+	"desc"		"Paint the Town release 7f8d824d (Woof 16.0.0 + Freedoom 0.13.0)"
+	"buildoutput"	"..\\dist\\steam_build_output\\"
+	"contentroot"	"..\\dist\\Paint_the_Town_Standalone\\"
+	"setlive"	""
+	"preview"	"1"
+	"local"		""
+	"depots"
+	{
+		// Replace YOUR_DEPOTID (normally APPID+1) from the Steamworks depot page.
+		"YOUR_DEPOTID"	"depot_build.vdf"
+	}
+}
