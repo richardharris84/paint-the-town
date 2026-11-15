@@ -1,5 +1,7 @@
 # Paint the Town: Toronto
 
+![Paint the Town: Toronto key art](docs/media/key-art.jpg)
+
 A nine-map Toronto paintball campaign for classic DOOM — built entirely from
 original, AI-assisted art, music and code, playable both as a DOOM mod and as a
 fully **standalone game** (no DOOM purchase required).
@@ -10,6 +12,13 @@ Scotiabank Arena, Rogers Centre, the Toronto Islands and the Toronto Zoo —
 against nineteen animal paintball rivals. Grab the Portal Key in each venue and
 press Spacebar at the gold EXIT panel. Everything is paint: no blood, no gore,
 a PG-13 arcade aesthetic.
+
+| Scotiabank Arena faceoff | ROM gallery | Toronto Zoo |
+| --- | --- | --- |
+| ![Arena faceoff gameplay](docs/media/gameplay-arena.jpg) | ![ROM gallery gameplay](docs/media/gameplay-rom.jpg) | ![Zoo gameplay](docs/media/gameplay-zoo.jpg) |
+
+More native 1920×1080 captures live in
+[`steam/store_assets/screenshots/`](steam/store_assets/screenshots).
 
 **Current release:** `Paint_the_Town.wad`
 SHA256 `7f8d824d400373a314763c6ffb8aa477147e0285e909db7335bad5a045db3499`
@@ -105,6 +114,8 @@ builder in `tools\zdbsp\` (gitignored; source recorded in
 
 ## Gameplay summary
 
+![Pixel-art Toronto overworld between levels](docs/media/overworld.png)
+
 - **Weapons:** mallet (melee), starter, pump and automatic paintball markers —
   one shared PAINTBALLS pool (400 capacity, 800 with backpack); the pump needs
   7 paintballs per burst.
@@ -117,6 +128,20 @@ builder in `tools\zdbsp\` (gitignored; source recorded in
   vials/shards (bonuses), vests (armour), pods/cases (ammo), hopper backpack,
   and the Paint Surge (super-charge orb). The campaign has no hidden "secret"
   areas.
+
+### The nineteen rivals
+
+![All nineteen paintball rivals](docs/media/rivals-cast.png)
+
+### Actual generated venue geometry
+
+| Queen's Park · ROM · Sankofa | Stadiums · Islands · Zoo |
+| --- | --- |
+| ![North and Sankofa map diagrams](docs/media/maps-north-sankofa.png) | ![Stadium, Islands and Zoo map diagrams](docs/media/maps-stadium-islands-zoo.png) |
+
+Steam-ready artwork (covers, hero, icon) ships in the standalone package:
+
+![Steam wide cover](docs/media/wide-cover.jpg)
 
 ## Licensing / provenance notes
 
